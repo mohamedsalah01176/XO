@@ -69,14 +69,14 @@ body{
 
     }
 }
-@media(max-width:1228px and max-width:1120px ){
+@media(max-width:1228px){
     .gime .square{
         width: 150px;
         height: 100px;
         font-size: 75px;
     }
     .gime{
-        margin-left: 30px;
+        margin-left: 60px;
     }
 }
 @media(max-width:1120px){
@@ -85,7 +85,10 @@ body{
         height: 100px;
         font-size: 75px;
     }
-    
+    .gime{
+        margin-left: 0px;
+
+    }
 }
 @media(max-width:850px){
     .gime .square{

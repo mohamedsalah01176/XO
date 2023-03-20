@@ -65,8 +65,8 @@ body{
         font-size: 100px;
     }
     .gime{
-        margin-left: 30px;
-
+        margin-left: 60px;
+        width: 90%;
     }
 }
 @media(max-width:1228px){
@@ -76,7 +76,8 @@ body{
         font-size: 75px;
     }
     .gime{
-        margin-left: 50px;
+        margin-left: 100px;
+        width: 80%;
     }
 }
 @media(max-width:1120px){
@@ -87,7 +88,8 @@ body{
     }
     .gime{
         margin-left: 0px;
-
+        
+        width: 85%;
     }
 }
 @media(max-width:850px){
@@ -122,6 +124,7 @@ body{
     }
     .gime{
         transform: translateX(2%);
+        width: 90%;
     }
 }
 @keyframes change{

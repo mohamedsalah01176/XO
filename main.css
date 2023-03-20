@@ -69,7 +69,7 @@ body{
 
     }
 }
-@media(max-width:1228px){
+@media(max-width:1228px and max-width:1120px ){
     .gime .square{
         width: 150px;
         height: 100px;
